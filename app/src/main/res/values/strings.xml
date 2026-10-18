@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AbdullahTool Bridge</string>
+    <string name="start_bridge">تشغيل الجسر المحلي (Start Bridge)</string>
+    <string name="stop_bridge">إيقاف الجسر (Stop Bridge)</string>
+    <string name="status_offline">● الحالة: متوقف (Offline)</string>
+    <string name="status_online">● الحالة: يعمل وجاهز للاتصال (Online)</string>
+</resources>
