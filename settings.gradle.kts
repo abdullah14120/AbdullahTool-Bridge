@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AbdullahWifi"
+rootProject.name = "AbdullahToolBridge"
 include(":app")
